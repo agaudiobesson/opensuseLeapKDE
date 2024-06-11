@@ -18,6 +18,7 @@ Autologin with wayland gives my amd laptop a crash and return to cli (works as i
   * network configuration - click on "switch to NetworkManager"
 * clic install, computer will reboot at the end
 * login into the command line interface
+* go to /etc/zypp/zypp.conf and change download.use_deltarpm = true to download.use_deltarpm = false
 
 ## KDE installation
 
